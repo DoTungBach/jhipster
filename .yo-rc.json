@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.example.jhipsterdemo"
+    },
+    "jhipsterVersion": "6.10.3",
+    "applicationType": "monolith",
+    "baseName": "JhipsDemo",
+    "packageName": "com.example.jhipsterdemo",
+    "packageFolder": "com/example/jhipsterdemo",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MTVhNTU5ZmM3MTYxZDMzZDFmNWFhMzZmNDk0YWQ1M2Q0NzQ2MDhmYjIzZWQ2OTUzZDg2MjhkN2NhMGY0NGEwNzM5MTgzMWM1MmRkZTI3NWFmZGU5OTUzZmQxZTk1ZjU1YTdkYTE0MmRmNTcyMTlkMGI5ZGM3NjQ0NmYzZDFiMWM=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "lux",
+    "clientThemeVariant": "primary",
+    "creationTimestamp": 1601644837642,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
